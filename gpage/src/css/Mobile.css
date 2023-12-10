@@ -1,0 +1,25 @@
+
+.logoandprofile{
+    min-width: 30vmin;
+    width: 120px;
+    border: #000000;
+    border-width: 1px;
+    border-style: solid;
+    display: block;
+  }
+.logoandprofilemobile{
+    height: 48vmin;
+    min-width: 30vmin;
+    width: 120px;
+    border: #000000;
+    border-width: 1px;
+    border-style: solid;
+    display: block;
+    justify-items: center;
+    align-items: center;
+  }
+  
+.leftmenu{
+    margin-left: 2%;
+    display: flex;
+  }

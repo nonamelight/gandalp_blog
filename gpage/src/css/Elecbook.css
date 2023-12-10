@@ -1,0 +1,42 @@
+.elecbook img{
+    width: 30vh;
+    height: 40vh;
+    margin-right: 2%;
+    border-style: solid;
+    border-color: orange;
+
+}
+.elecbookmobile img{
+    width: 35vmin;
+    height: 50vmin;
+    margin-right: 2%;
+    border-style: solid;
+    border-color: orange;
+    
+}
+.elecbooktitleflex{
+    display: flex;        
+}
+.elecbooktitle{    
+    font-family: 'poor-story' ;
+    color: red;
+    margin-right: 105px;
+    font-size: xx-large;    
+}
+.elecbookmobiletitle{    
+    font-family: 'poor-story' ;
+    color: red;
+    min-width: 80px;    
+    margin-right: 50px;
+    font-size: larger;    
+}
+
+@font-face {
+    font-family: 'MacondoSwashCaps-Regular';
+    src: url(../fonts/MacondoSwashCaps-Regular.ttf);
+  }
+@font-face {
+    font-family: 'poor-story';
+    src: url(../fonts/PoorStory-Regular.ttf);
+}
+  

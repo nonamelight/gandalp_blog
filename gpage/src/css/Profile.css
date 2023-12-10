@@ -1,0 +1,15 @@
+.profile {
+    height: 37vmin;
+    pointer-events: none;
+    align-items: baseline;
+    justify-content: baseline;
+    margin-left: 3%;
+  }
+.profilemobile {
+    height: 37vmin;
+    pointer-events: none;
+    align-items: baseline;
+    justify-content: baseline;
+    margin-left: 3%;
+  }
+  

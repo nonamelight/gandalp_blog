@@ -1,0 +1,156 @@
+.content1{
+font-family: 'poor-story';
+font-size: medium;
+border-style: solid;
+border-width: 1px;
+width: 35vmin;
+height: 48vh;
+padding-left: 1%;
+margin-bottom: 10vmin;
+margin-top: 1%;
+margin-right: 1%;
+line-height: 15px;
+}
+.contents{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contentsblock{
+    display: block;
+}
+.contentmobile1{
+font-family: 'poor-story';
+font-size: larger;
+border-style: solid;
+border-width: 1px;
+width: 90%;
+height: 45;
+margin-bottom: 10%;
+margin-top: 1%;
+margin-right: 5%;
+margin-left: 5%;
+padding-left: 2%;
+line-height: 10px;
+}
+.content2{
+    font-family: 'poor-story';
+    font-size: large;
+    border-style: solid;
+    border-width: 1px;
+    width: 28vmin;
+    height: 48vh;
+    padding-left: 2%;
+    margin-bottom: 10%;
+    margin-top: 1%;
+    margin-right: 1%;
+    }
+.contentmobile2{
+font-family: 'poor-story';
+font-size: larger;
+border-style: solid;
+border-width: 1px;
+width: 90%;
+height: 38vh;
+margin-bottom: 10%;
+margin-top: 1%;
+margin-right: 5%;
+margin-left: 5%;
+padding-left: 2%;
+line-height: 10px;
+}
+.content2left{
+    padding-left: 5%;
+}
+.content2right{
+    padding-left: 5%;
+}
+.contentmobile2left{
+    padding-left: 5%;
+}
+.contentmobile2right{
+    padding-left: 20%;
+}
+.content2flex{
+    display: flex;
+}
+.contentmobile3{
+    font-family: 'poor-story';
+    font-size: larger;
+    border-style: solid;
+    border-width: 1px;
+    width: 90%;
+    height: 65vh;
+    margin-bottom: 10vh;
+    margin-top: 1%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
+    line-height: 15px;
+    }
+    .contentmobile3left{
+        padding-left: 5%;
+    }
+    .contentmobile3right{
+        padding-left: 8%;
+    }
+    .content3flex{
+        display: flex;
+    }
+.contentmobile4{
+font-family: 'poor-story';
+font-size: larger;
+border-style: solid;
+border-width: 1px;
+width: 90%;
+height: 20vh;
+margin-bottom: 10%;
+margin-top: 1%;
+margin-right: 5%;
+margin-left: 5%;
+line-height: 5px;
+}
+.link{
+    color: blue;
+    text-decoration-line: none;
+}
+.contenttext{
+    font-family: 'poor-story';
+font-size: larger;
+border-style: solid;
+border-width: 1px;
+width: 90%;
+margin-bottom: 5%;
+margin-top: 2%;
+margin-right: 5%;
+margin-left: 5%;
+padding-left: 2%;
+line-height: 5vh;
+}
+.contenttext img{    
+width: 20vmin;
+height: 30vmin;
+margin-bottom: 10%;
+margin-top: 1%;
+
+padding-left: 1vh;
+line-height: 5vh;
+}
+.tech1 img{
+    width: 80vmin;
+height: 50vmin;
+margin-bottom: 10%;
+margin-top: 1%;
+line-height: 5vh;
+}
+.simpleflex{
+    display: flex;
+}
+@font-face {
+    font-family: 'MacondoSwashCaps-Regular';
+    src: url(../fonts/MacondoSwashCaps-Regular.ttf);
+}
+  @font-face {
+    font-family: 'poor-story';
+    src: url(../fonts/PoorStory-Regular.ttf);
+}

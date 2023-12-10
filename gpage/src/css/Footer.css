@@ -1,0 +1,61 @@
+.footer{
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    bottom: 0px;
+    height: 50px;
+    color: white;
+    background-color: #FC8412;
+}
+.footertext{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.kmongfooter{
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+    bottom: 10vh;
+    height: 50px;    
+    color: white;
+}
+.linkfont{
+    font-family: 'poor-story';
+    font-size: small;
+    color: #fffbc2;  
+    text-decoration-line: none;  
+    width: 5vh;
+    height: 5vh;
+    margin-top: 1vh;
+
+}
+.kmonglink{
+    display : flex;
+    position: fixed;
+    background-color: #FC8412;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-color: orange;
+    border-style: inset;
+    margin-right: 2vh;
+    width: 9vh;
+    height: 9vh;
+    border-radius: 20rch;
+}
+
+@font-face {
+    font-family: 'MacondoSwashCaps-Regular';
+    src: url(../fonts/MacondoSwashCaps-Regular.ttf);
+  }
+  @font-face {
+    font-family: 'poor-story';
+    src: url(../fonts/PoorStory-Regular.ttf);
+  }
