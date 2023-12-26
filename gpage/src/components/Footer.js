@@ -4,7 +4,7 @@ export default function Footer(){
     return(<>    
     <footer className='kmongfooter'>
             <div className='kmonglink'>
-                <a href='https://kmong.com/gig/467166' className='linkfont'>
+                <a href='https://kmong.com/gig/467166' className='linkfont' target='_blank'>
                     전자책<br/>보기
                 </a>
             </div>

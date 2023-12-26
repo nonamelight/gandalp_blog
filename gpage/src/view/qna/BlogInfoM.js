@@ -25,8 +25,8 @@ export default function BlogInfoM(){
 
         <h4>간달프입니다</h4><br/>
 
-        <a href="https://open.kakao.com/o/gcnjbBBc"><h3>비전공자 카카오 오픈채팅방</h3></a>
-        <a href="https://kmong.com/gig/467166"><h3>전자문서 구매</h3></a><br/>
+        <a href="https://open.kakao.com/o/gcnjbBBc" target='_blank'><h3>비전공자 카카오 오픈채팅방</h3></a>
+        <a href="https://kmong.com/gig/467166" target='_blank'><h3>전자문서 구매</h3></a><br/>
 
 
         <h1>블로그 목적은 <font color="#f80000">"IT준비를 위한 최소한의 응급지식 제공"</font>입니다</h1>
