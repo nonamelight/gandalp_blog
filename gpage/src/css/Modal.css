@@ -1,0 +1,27 @@
+
+#modal{
+    width: 64vmin;    
+    position:fixed;
+    top: 50%;
+    transform: translate(70%, 0%);
+    background-color: gray;
+}
+#modal img{
+    width: 60vmin;
+    position:relative;
+}
+
+#kmonglink{
+    display : flex;
+    position: absolute;
+    background-color: #FC8412;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-color: orange;
+    border-style: inset;
+    margin-right: 2vh;    
+    width: 9vh;
+    height: 9vh;
+    border-radius: 20rch;
+}
