@@ -10,10 +10,13 @@ import Introduce from "../components/Introduce";
 import Logo from "../components/Logo";
 import Profile from "../components/Profile";
 import css from "../css/Mobile.css";
+import FrontModal from "../components/Modal";
 
 export default function Mobile(){
   var {isMobile} = useResponsiveApi();
     return (<>
+    
+    <FrontModal></FrontModal>
   <Banner></Banner>
     <div className="leftmenu">
     <div className={"logoandprofilemobile"}>

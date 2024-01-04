@@ -4,10 +4,20 @@
     position:fixed;
     top: 50%;
     transform: translate(70%, 0%);
-    background-color: gray;
 }
 #modal img{
     width: 60vmin;
+    position:relative;
+}
+#modalmobile{
+    width: 50vmin;    
+    height: 75vmin;
+    position:fixed;
+    top: 50%;
+    transform: translate(20%, 20%);
+}
+#modalmobile img{    
+    width: 50vmin;
     position:relative;
 }
 
