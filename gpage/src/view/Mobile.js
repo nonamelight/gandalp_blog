@@ -26,12 +26,12 @@ export default function Mobile(){
     <Introduce></Introduce>
   </div><ul>
 
-  <Elecbook isMobile={isMobile}></Elecbook>
   </ul>
     <Content1></Content1>
     <Content2></Content2>
     <Content3></Content3>
     {/* <Content4></Content4>   */}
+  <Elecbook isMobile={isMobile}></Elecbook>
     
     <Footer></Footer>
     </>);
