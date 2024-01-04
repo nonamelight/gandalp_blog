@@ -10,7 +10,7 @@ export default function FrontModal(){
         <div id="modalframe" >
             <Modal id={isMobile?"modalmobile":"modal"} isOpen={isOpenModal} onRequestClose={()=>setisOpenModal(false)} >
                 <div>
-                    <a href="https://kmong.com/gig/467166">    
+                    <a href="https://kmong.com/gig/467166" target="_blank">    
                         <img src={elecbook}>
                         </img>                        
                     </a>                       
