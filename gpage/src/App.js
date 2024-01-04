@@ -16,7 +16,7 @@ export function ResponsiveProvider({children}){
     }
   }
   useEffect(()=>{
-    window.addEventListener('resize',handleResize);
+    window.addEventListener('resize',handleResize);    
     return ()=>{
       window.removeEventListener('resize',handleResize);
     }
@@ -32,7 +32,6 @@ function App() {
   return (
     
     <>
-    
     <ResponsiveProvider>      
         <LogoProfileLayout></LogoProfileLayout>
     </ResponsiveProvider>
